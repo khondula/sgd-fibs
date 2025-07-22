@@ -1,0 +1,6 @@
+model_no,Var1,model_id
+4,z_DOM_log,Smodel1var_04
+5,z_Nitrate_log,Smodel1var_05
+6,z_Salinity,Smodel1var_06
+7,z_Turbidity_log,Smodel1var_07
+11,z_rain_sum02_log,Smodel1var_11
